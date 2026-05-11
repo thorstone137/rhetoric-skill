@@ -55,6 +55,25 @@ LLM-facing documents are infrastructure. They activate the patterns that produce
 
 Citations are inline. The skill teaches the framework as it audits.
 
+## Commercial use
+
+Free under MIT for personal and research use. Commercial use (inside a company, on client deliverables, embedded in a product you ship) requires the paid bundle: commercial license, worked-example library, portfolio-mode walkthrough, 12 months of updates.
+
+| Tier | Price | Scope |
+|------|-------|-------|
+| Solo | $59 | 1 developer, unlimited personal + client projects |
+| Team | $249 | Up to 10 developers, shared portfolio mode, email support |
+| Studio | $899 | Unlimited developers, private Slack, quarterly office-hour call |
+| OEM | Contact | Embed in a product you ship |
+
+The first 100 buyers are grandfathered at the $59 launch price; price rises to $79 after that. The first 25 buyers receive Founder Tier perks (lifetime updates, 90-day DM access, name in `CONTRIBUTORS.md`).
+
+Paid bundle: <https://prairiedustin.gumroad.com/l/rhetoric>.
+
+## Updates
+
+Follow [@_PrairieMark](https://x.com/_PrairieMark) on X for releases, new passes, and worked examples. Maintainer: [@thorstone137](https://x.com/thorstone137).
+
 ## Support
 
-Email the address in your purchase receipt. Issues, feature requests, and skill compositions welcome.
+GitHub issues for bugs and false positives. Email (in the purchase receipt) for paid-bundle support. Skill compositions and pull requests welcome — see `CONTRIBUTING.md`.
